@@ -1,20 +1,30 @@
-# Let's Get Started
+# Git Good Git Skills
 
 ---
 
-## Add Some Slide Candy
+## What is git?
 
-![](assets/img/presentation.png)
-
----
-@title[Customize Slide Layout]
+@snap[east span-50]
+![](assets/img/simple-branch.png)
+@snapend
 
 @snap[west span-50]
-## Customize Slide Content Layout
+@ul[spaced]
+- A version control system
+- Timeline of diffs
+@snapend
+
+---
+@title[Well, Actually..]
+
+@snap[west span-50]
+**Distributed** version control system
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+@ul[spaced]
+- Local ![](assets/img/simple-branch.png)
+- Remote ![](assets/img/simple-branch.png)
 @snapend
 
 ---?color=#E58537
